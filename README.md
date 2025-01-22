@@ -1,4 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LelieSolar Landing Page Project
+
+Dit Persoonlijke project project bevat de landing page en gerelateerde pagina's voor LelieSolar, een bedrijf gespecialiseerd in zonnepanelen, thuisbatterijen en laadpalen.
+
+
+## Projectstructuur
+
+Het project is opgebouwd uit verschillende pagina's en componenten. Hieronder vindt u een overzicht van de belangrijkste bestanden:
+
+### Pagina's
+
+- [Hoofdpagina (page.jsx)](./page.jsx)
+- [Zonnepanelen (pages/zonnepanelen.jsx)](./pages/zonnepanelen.jsx)
+- [Thuisbatterij (pages/thuisbatterij.jsx)](./pages/thuisbatterij.jsx)
+- [Laadpaal (pages/laadpaal.jsx)](./pages/laadpaal.jsx)
+- [Service (pages/service.jsx)](./pages/service.jsx)
+- [Reviews (pages/reviews.jsx)](./pages/reviews.jsx)
+
+### Componenten
+
+- [Navigation (components/Navigation.jsx)](./components/Navigation.jsx)
+- [Footer (components/Footer.jsx)](./components/Footer.jsx)
+- [ScheduleCallModal (components/schedule-call-modal.jsx)](./components/schedule-call-modal.jsx)
+- [ContactFormModal (components/contact-form-modal.jsx)](./components/contact-form-modal.jsx)
+- [LaadpaalContactModal (components/laadpaal-contact-modal.jsx)](./components/laadpaal-contact-modal.jsx)
+- [ThuisbatterijContactModal (components/thuisbatterij-contact-modal.jsx)](./components/thuisbatterij-contact-modal.jsx)
+- [ServiceContactModal (components/service-contact-modal.jsx)](./components/service-contact-modal.jsx)
+
+## Installatie
+
+1. Clone de repository
+2. Installeer de benodigde dependencies met `npm install`
+3. Start de ontwikkelingsserver met `npm run dev`
+
+## Gebruik
+
+Dit project maakt gebruik van Next.js en React. Zorg ervoor dat u vertrouwd bent met deze technologieën voordat u aan het project gaat werken.
+
+## Bijdragen
+
+Als u wilt bijdragen aan dit project, maak dan een fork van de repository, maak uw wijzigingen en dien een pull request in.
+
+## Licentie
+
+Dit project is eigendom van LelieSolar en mag niet worden gebruikt of gedistribueerd zonder uitdrukkelijke toestemming.
+
 
 ## Getting Started
 
@@ -15,22 +60,4 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+,,,
