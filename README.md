@@ -1,7 +1,7 @@
 # LelieSolar Landing Page Project
 
 Dit Persoonlijke project project bevat de landing page en gerelateerde pagina's voor LelieSolar, een bedrijf gespecialiseerd in zonnepanelen, thuisbatterijen en laadpalen.
-
+  <a href="[https://leliesolar-np2p.vercel.app]">🌐 Bekijk de live demo</a>
 
 ## Projectstructuur
 
