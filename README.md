@@ -1,7 +1,18 @@
 # LelieSolar Landing Page Project
 
 Dit Persoonlijke project project bevat de landing page en gerelateerde pagina's voor LelieSolar, een bedrijf gespecialiseerd in zonnepanelen, thuisbatterijen en laadpalen.
-  <a href="[https://leliesolar-np2p.vercel.app]">🌐 Bekijk de live demo</a>
+<div align="center">
+
+
+  <p align="center">
+    <strong>Gemaakt door</strong>
+    <br>
+    <strong>Idil</strong>
+    <br>
+    <a href="https://github.com/IdilGA/leliesolar">Bekijk de repository</a>
+    ·
+</div>
+  <a href="https://leliesolar-np2p.vercel.app">🌐 Bekijk de live demo</a>
 
 ## Projectstructuur
 
