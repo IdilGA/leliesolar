@@ -87,7 +87,7 @@ export default function Page() {
               alt="Laadpalen"
               title="Laadpalen"
               description="Slimme laadpalen voor uw elektrische voertuig, geschikt voor thuis en zakelijk gebruik."
-              link="/laadpalen"
+              link="/laadpaal"
               linkText="Meer over laadpalen"
             />
             <ProductCard
